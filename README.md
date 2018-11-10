@@ -2,4 +2,4 @@
 
 List of different algorithms for sorting an array.
 
-Also includes a heigh balanced tree and a algorithm for searching a binary tree.
+Also includes a height balanced tree and a algorithm for searching a binary tree.
